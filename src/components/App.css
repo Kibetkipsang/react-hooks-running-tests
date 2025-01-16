@@ -1,0 +1,19 @@
+.App{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    min-height: 100vh;
+    padding: 20px;
+}
+
+.mtaa{
+    width: 100vh;
+    padding: 20px;
+    background-color: antiquewhite;
+}
+
+ #space{
+    margin: 15px;
+ }
